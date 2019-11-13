@@ -1,0 +1,3 @@
+com\task\DemoTaskApplication.class
+com\task\service\AsyncService.class
+com\task\contoller\AsyncContoller.class
